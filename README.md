@@ -41,23 +41,23 @@ Focus Pocus runs in the background and uses contextual nudges, smart reminders, 
 
 | Splash Screen/Enter Screen |
 
-![Image](https://github.com/user-attachments/assets/4f9e158b-8658-4d4a-a5a6-00be3920175c)
+![Image](https://github.com/user-attachments/assets/df99cbec-5e56-4b9a-9a11-9bd4c161eb64)
 
 | Login Screen |
 
-![Image](https://github.com/user-attachments/assets/c2fe0146-23ba-4c96-afc2-fbb7ab7c1cde)
+![Image](https://github.com/user-attachments/assets/8ef3ee01-ab07-4c17-b876-23ff037760b4)
 
 | SignUp Screen |
 
-![Image](https://github.com/user-attachments/assets/01b7f298-1bd3-49df-81fe-9f606ab9c990)
+![Image](https://github.com/user-attachments/assets/7e673fce-2156-4b18-a4e0-a987187ca947)
 
 | Home Dashboard Screen |
 
-![Image](https://github.com/user-attachments/assets/171c8d12-25de-4ab3-bc02-220652998c71)
+![Image](https://github.com/user-attachments/assets/a7124949-b2a4-4faa-8512-1e401cd97d21)
 
 | Nudges Screen |
 
-![Image](https://github.com/user-attachments/assets/e4792d95-c294-4e81-a837-a2f59f826a94)
+![Image](https://github.com/user-attachments/assets/de9eb906-c4cd-4c68-8510-4be4e3d9d74d)
 
 **Video link** 
 (https://youtube.com/shorts/K4m3TYGVc-o)
@@ -112,6 +112,5 @@ Focus Pocus runs in the background and uses contextual nudges, smart reminders, 
 
 I’m always open to feedback, collaboration, or conversations around UI design, mobile development, and mental health tech.
 
-**Jonathan Mirabal**  
-📧 [Your Email Here]  
+📧 jonathan.a.mirabal@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal/)
