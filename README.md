@@ -1,57 +1,117 @@
 # 🌟 Focus Pocus – ADHD Productivity & Reminder App (Dev Branch)
 
-**Focus Pocus** is a futuristic productivity assistant designed to help users with ADHD and executive function challenges stay focused, on track, and in control of their day. This branch reflects my personal development contributions to the project.
+**Focus Pocus** is a futuristic productivity assistant designed to support users with ADHD and executive function challenges. It combines intelligent nudges, calming visuals, and customizable routines to help users stay focused, organized, and in control of their day.
+
+This is a **team project**, and I’m contributing as the **UI Designer** and **API Integration Specialist** — leading the design system, Android UI implementation, and front-end API connections.
 
 ---
 
 ## 🧠 Concept
 
-Focus Pocus operates in the background and uses intelligent reminders, contextual nudges, and routine management tools to support productivity — all with privacy and offline functionality in mind.
+Focus Pocus runs in the background and uses contextual nudges, smart reminders, and visual habit tracking to promote mindfulness and focus. The app is designed to be distraction-free, offline-capable, and highly personalized through daily streaks, insights, and calming animations.
 
 ---
+
+## 👥 My Role in the Project
+
+- 🎨 UI Designer – Created all mobile UI wireframes using **Figma**  
+- 🧪 Frontend Developer – Implemented layouts and navigation using **Android Studio**  
+- 🔌 API Integration Specialist – Connected UI to backend via **Retrofit**, **ViewModel**, and **SessionManager**
+
+---
+
 ## 🔧 Tech Stack
 
-- **Language:** Kotlin  
-- **IDE:** Android Studio  
-- **UI Design:** XML Layouts, Custom Material Themes  
-- **API Integration:** Retrofit (REST API), Coroutine-based network calls  
-- **Animations:** Lottie  
-- **Design Tools:** Figma (UI Wireframing & Prototyping)  
-- **Font Styling:** Genos Font  
-- **Backend (Planned):** Firebase / External APIs (via teammate)
+- **Language:** `Kotlin`  
+- **IDE:** `Android Studio`  
+- **UI Design:** `XML Layouts`, `Material Design`, `Genos Font`  
+- **Animations:** `Lottie`  
+- **API Integration:** `Retrofit`, `ViewModel`, `SessionManager`, `Coroutines`  
+- **Design & Prototyping:** `Figma`  
+- **State Management:** `LiveData`, `MVVM`  
+- **Backend (Planned):** Firebase / teammate-developed external APIs
 
 ---
 
-## 💡 Features I've Contributed
+## 📸 Screenshots
 
-- 🎨 **Designed & implemented** `activity_dashboard.xml` layout  
-   - Light purple background, custom icons, and glowing blue card containers
-- ✨ **Built the Nudges screen (NudgesActivity)**  
-   - Scrollable card layout, glowing buttons, and Lottie animations
-- 🔁 **Implemented shared bottom navigation bar** across screens  
-- 🔐 **Integrated API-based Login & Signup** using Retrofit, ViewModel, and SessionManager  
-   - Includes error handling, session storage, and secure state flow
-- 🛠️ **Resolved app crash bugs** and ensured smooth transitions between activities
+| UI Wireframes |
+
+![Image](https://github.com/user-attachments/assets/e7eb8f3c-db37-4b0b-a59f-1d007c30da52)
+
+| Splash Screen/Enter Screen |
+
+![Image](https://github.com/user-attachments/assets/4f9e158b-8658-4d4a-a5a6-00be3920175c)
+
+| Login Screen |
+
+![Image](https://github.com/user-attachments/assets/c2fe0146-23ba-4c96-afc2-fbb7ab7c1cde)
+
+| SignUp Screen |
+
+![Image](https://github.com/user-attachments/assets/01b7f298-1bd3-49df-81fe-9f606ab9c990)
+
+| Home Dashboard Screen |
+
+![Image](https://github.com/user-attachments/assets/171c8d12-25de-4ab3-bc02-220652998c71)
+
+| Nudges Screen |
+
+![Image](https://github.com/user-attachments/assets/e4792d95-c294-4e81-a837-a2f59f826a94)
+
+**Video link** 
+(https://youtube.com/shorts/K4m3TYGVc-o)
+
+---
+
+## ✨ Features I’ve Contributed
+
+- 🎨 **Custom Dashboard UI** (`activity_dashboard.xml`)  
+   - Designed and implemented themed layout with purple backgrounds, glowing card containers, and custom icons
+
+- 🧠 **Nudges Screen** (`NudgesActivity`)  
+   - Built scrollable cards with motivational prompts and glowing buttons  
+   - Integrated **Lottie animations** and applied custom styling
+
+- 🔁 **Shared Bottom Navigation Bar**  
+   - Implemented reusable navigation component for consistent app-wide use
+
+- 🔐 **Login & Signup System**  
+   - Built secure authentication flow using `Retrofit`, `ViewModel`, `SessionManager`  
+   - Includes form validation, API integration, error handling, and secure session state
+
+- 🛠️ **Bug Fixes & UI Flow Improvements**  
+   - Resolved navigation bugs and improved screen transitions across the app
 
 ---
 
 ## 🚧 In Progress
 
-- 🔄 Firebase backend integration for user data and reminders  
-- 🧠 AI-powered features (smart nudges, adaptive scheduling, productivity analysis)  
-- 📲 Extending API integration to task syncing and dashboard analytics
+- 🔄 Firebase backend integration for persistent user data and smart reminders  
+- 🧠 AI-powered features for dynamic nudges and productivity insights  
+- 📊 Dashboard analytics with chart visualizations and time tracking
 
 ---
 
-## 🧠 What I'm Learning
+## 📚 What I'm Learning
 
-- Structuring scalable Android UIs with ViewModels and Repository patterns  
-- Implementing Retrofit API calls with proper security and error handling  
-- Building responsive, animated UI/UX with Lottie and XML  
-- Collaborating in a Git-based team using feature branches and merge reviews
+- Architecting scalable Android apps with **MVVM + Repository patterns**  
+- Building secure and efficient API flows using **Retrofit** and **Coroutines**  
+- Designing responsive, animated interfaces with **Material Design**, **Lottie**, and custom themes  
+- Collaborating effectively in a Git-based team using branches, pull requests, and shared issue tracking
 
 ---
 
 ## 📁 Project Status
 
-🟢 **Actively developing** – this branch includes completed UI designs and now connected login/signup features powered by live API endpoints.
+🟢 **Actively developing** – this branch includes complete login/signup functionality, animated UI screens, and full user flow for early modules. Currently integrating Firebase and building advanced features.
+
+---
+
+## 🙋‍♂️ Let’s Connect
+
+I’m always open to feedback, collaboration, or conversations around UI design, mobile development, and mental health tech.
+
+**Jonathan Mirabal**  
+📧 [Your Email Here]  
+🔗 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal/)
