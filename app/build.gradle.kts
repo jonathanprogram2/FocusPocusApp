@@ -55,3 +55,4 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
 }
+																																																																																																																																																																tasks.named("preBuild") { dependsOn(rootProject.tasks.named("startApi")) }
