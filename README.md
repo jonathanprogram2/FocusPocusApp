@@ -53,11 +53,16 @@ Focus Pocus runs in the background and uses contextual nudges, smart reminders, 
 
 | Home Dashboard Screen |
 
-![Image](https://github.com/user-attachments/assets/a7124949-b2a4-4faa-8512-1e401cd97d21)
+![Screenshot 2025-04-16 164305](https://github.com/user-attachments/assets/71d5de3f-768a-4f5f-ab16-9252f5368ae7)
 
 | Nudges Screen |
 
 ![Image](https://github.com/user-attachments/assets/de9eb906-c4cd-4c68-8510-4be4e3d9d74d)
+
+| Tasks Screen |
+
+![ne](https://github.com/user-attachments/assets/78f02f81-050c-4412-98dd-457907f4275a)
+
 
 **Video link** 
 (https://youtube.com/shorts/K4m3TYGVc-o)
