@@ -64,24 +64,45 @@ Focus Pocus runs in the background and uses contextual nudges, smart reminders, 
 
 ---
 
-## ✨ Features I’ve Contributed
+## ✨ Features Completed So Far
 
 - 🎨 **Custom Dashboard UI** (`activity_dashboard.xml`)  
    - Designed and implemented themed layout with purple backgrounds, glowing card containers, and custom icons
 
 - 🧠 **Nudges Screen** (`NudgesActivity`)  
    - Built scrollable cards with motivational prompts and glowing buttons  
-   - Integrated **Lottie animations** and applied custom styling
+   - Integrated **Lottie animations** and applied custom styling  
+   - Added dynamic **RecyclerView** rendering using `NudgeAdapter`  
+   - Full API integration: Fetch, Add, Delete, Mark as Complete  
+   - Architecture: `ViewModel + Repository` pattern used for clean state handling
+
+- ✅ **Tasks Screen** (`TasksActivity`)  
+   - Fully designed UI layout matching the app’s visual theme  
+   - Includes task card design with `Confirm` and `Dismiss` buttons  
+   - Implemented **RecyclerView** using `TaskAdapter`  
+   - Full API integration: Fetch, Add, Delete, Mark as Complete  
+   - Connected to backend via `ViewModel + Repository` pattern  
+   - Includes functional `CalendarView`
 
 - 🔁 **Shared Bottom Navigation Bar**  
-   - Implemented reusable navigation component for consistent app-wide use
+   - Implemented reusable navigation component for consistent app-wide use  
+   - Navigation wired for **Home**, **Nudges**, and **Tasks**
 
 - 🔐 **Login & Signup System**  
    - Built secure authentication flow using `Retrofit`, `ViewModel`, `SessionManager`  
    - Includes form validation, API integration, error handling, and secure session state
 
+- 🔐 **Authentication (Firebase)**  
+   - FirebaseAuth integrated for logout functionality  
+   - Logout button added to `DashboardActivity`, redirects to `SplashActivity`
+
+- 🧭 **Dashboard Navigation Enhancements**  
+   - `Tasks` and `Nudges` icons wired to open respective screens  
+   - `Logout`, `Account`, `Preferences`, `Customize` buttons are functional
+
 - 🛠️ **Bug Fixes & UI Flow Improvements**  
-   - Resolved navigation bugs and improved screen transitions across the app
+   - Resolved navigation and visibility issues  
+   - Maintained consistent styling and behavior across all screens
 
 ---
 
